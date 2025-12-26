@@ -1,3 +1,6 @@
+i:
+	npm install
+
 dev:
 	npm run dev
 
@@ -11,5 +14,5 @@ build:
 preview:
 	npm run preview
 
-build_win:
-	.\build_win.bat
+pake_win:
+	.\pake_win.cmd
